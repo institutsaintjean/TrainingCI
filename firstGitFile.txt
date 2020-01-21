@@ -1,0 +1,27 @@
+Budget Followup until end of Q4
+	Cross-project team : ISJ, HUB Universities, KCL, OU
+	TODO List
+		Evaluate budget until end of Q4 for FABLAB
+	
+Infos already got from KCL
+		Lab Visit
+		Lab registration Forms
+		Lab security policy terms & conditions
+		Lab IP Policy Management
+		Lab equipement training (Brodery, Laser Cutter, Drill Machine, CNC Machine)
+Point for building our lab
+	Space,
+	Equipment,
+	IP,
+	Management,
+	Security and safety,
+	Community Oriented ??
+	
+Draft a document around event;
+	GOAL (set it up)total cost for reproducing the GOAL Event - GOAL + Hackathon
+		Reservation, accomodation, Logistics, Management
+		Cross-universities (UK, ISJ) Portal
+	Hackathon
+	Moodlemoot
+		
+		
